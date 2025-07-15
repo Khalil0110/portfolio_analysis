@@ -3,16 +3,16 @@
 This project analyzes the performance and risk of a portfolio of 5 major tech stocks and the S&P 500 index across two different market regimes — a **bull market (2016–2019)** and a **bear market (COVID crash, 2020)**.
 
 It includes comprehensive risk analysis using:
-- 🧮 Parametric & Historical VaR
-- 🔻 Conditional VaR (CVaR)
-- 💡 Monte Carlo simulation
-- 📉 Drawdown analysis
-- 📈 EWMA & GARCH volatility models
-- 🧠 Fisher information and Cornish-Fisher adjustment
+- Parametric & Historical VaR
+- Conditional VaR (CVaR)
+- Monte Carlo simulation
+- Drawdown analysis
+- EWMA & GARCH volatility models
+- Fisher information and Cornish-Fisher adjustment
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `yfinance` for financial data
@@ -20,7 +20,7 @@ It includes comprehensive risk analysis using:
 
 ---
 
-## 🧠 Portfolio
+## Portfolio
 
 The portfolio contains:
 - 📊 Stocks: AAPL, MSFT, GOOGL, AMZN, TSLA
@@ -29,7 +29,7 @@ The portfolio contains:
 
 ---
 
-## 📊 Risk Metrics Compared
+## Risk Metrics Compared
 
 | Metric         | Description                                 |
 |----------------|---------------------------------------------|
